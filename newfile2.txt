@@ -1,3 +1,4 @@
 hello friends
 yeni bir satır eklendi newfile2
 yeni bir satır main branchi üzerinde eklendi
+yeni bir satır daha ahmet ekledi.
