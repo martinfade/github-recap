@@ -1,1 +1,2 @@
 hello friends
+yeni bir satır eklendi newfile2
