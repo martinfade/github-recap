@@ -1,1 +1,2 @@
-bu dosya dev-martin de oluşturuldu
+﻿bu dosya dev-martin de oluşturuldu
+değişiklik
